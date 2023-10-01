@@ -13,7 +13,7 @@ So, 12 + 3 x 9 - 3 <br>
     => 135 - 3 <br>
     => 132
 
-Live Preview: [website-link]()
+Live Preview: [website-link](https://akanksha493.github.io/Calculator/)
 
 Screenshot:
 ![screenshot](./screenshot.png)
