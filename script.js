@@ -16,7 +16,7 @@ function operate(operand1, operand2, operator){
     else if(operator === "-"){
         return operand1-operand2;
     }
-    else if(operator === "*"){
+    else if(operator === "x"){
         return operand1*operand2;
     }
     return operand1/operand2;
